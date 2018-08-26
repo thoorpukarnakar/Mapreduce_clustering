@@ -1,0 +1,9 @@
+{
+  "k_means":{
+    "output":"output",
+    "data_set":"data_points.dat",
+    "Centroids":"centroids.dat",
+    "centroids_number":"3"
+
+  }
+}
