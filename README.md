@@ -2,7 +2,7 @@
 
 It's an example to use the Clustering alogorithm with Mapreduce technique
 
-Mapper <Centeroid_index, data_point>
+Mapper <Centeroid_index, data_point> 
     1) finds the minimum Euclidian distance between the centroid and the data point.
     2) writes the context with key = centroid and value = data point.
 
